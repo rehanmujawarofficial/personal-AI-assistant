@@ -1,0 +1,6 @@
+speechrecognition
+pyttsx3
+pyautogui
+pywin32
+fpdf
+google-generativeai

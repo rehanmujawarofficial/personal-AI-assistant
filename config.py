@@ -1,0 +1,5 @@
+
+HISTORY_FILE = "history.txt"
+VOICE_PASSWORD = "008"
+WAKE_WORD = "bro"
+GENAI_API_KEY = "AIzaSyDsA3rudK-vMfA4OkQXynU3BlsmHvrtgSE"
